@@ -39,7 +39,7 @@ public class OrderDAOTest {
 		
 		order.setCustomer(customer);
 		order.setFirstname("Bao Long");
-		order.setRecipientPhone("1234567890");
+		order.setPhone("1234567890");
 		order.setAddressLine1("261/15/47 Dinh Phong Phu");
 		
 		Set<OrderDetail> orderDetails = new HashSet<OrderDetail>();
@@ -77,7 +77,7 @@ public class OrderDAOTest {
 		
 		order.setCustomer(customer);
 		order.setFirstname("Bao Long");
-		order.setRecipientPhone("1234567890");
+		order.setPhone("1234567890");
 		order.setAddressLine1("261/15/47 Dinh Phong Phu");
 		
 		Set<OrderDetail> orderDetails = new HashSet<OrderDetail>();

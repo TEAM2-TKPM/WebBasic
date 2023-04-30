@@ -62,14 +62,14 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="text-secondary text-uppercase mb-4">Newsletter</h5>
                         <p>Hi vọng càng lớn - Thất vọng càng nhiều!</p>
-                        <form action="">
+                        <!-- <form action="">
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="Your Email Address">
                                 <div class="input-group-append">
                                     <button class="btn btn-primary">Sign Up</button>
                                 </div>
                             </div>
-                        </form>
+                        </form> -->
                         <h6 class="text-secondary text-uppercase mt-4 mb-3">Follow Us</h6>
                         <div class="d-flex">
                             <a class="btn btn-primary btn-square mr-2" href="https://twitter.com/MAIBAOLONG4"><i class="fab fa-twitter"></i></a>
@@ -88,7 +88,7 @@
                     by
                     <a class="text-primary" href="https://htmlcodex.com">HTML Codex</a>
                     and re-edited by 
-                    <a class="text-primary" href="https://homepagelvlshop.herokuapp.com/">Team Web LVL</a>
+                    <a class="text-primary" href="contact.jsp">Team Web LVL</a>
                 </p>
             </div>
             <div class="col-md-6 px-xl-0 text-center text-md-right">

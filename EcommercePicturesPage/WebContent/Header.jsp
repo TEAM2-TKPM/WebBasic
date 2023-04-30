@@ -54,7 +54,7 @@ a:hover {
 			<div class="col-lg-6 d-none d-lg-block">
 				<div class="d-inline-flex align-items-center h-100">
 					<a class="text-body mr-3"
-						href="https://homepagelvlshop.herokuapp.com/">About</a>
+						href="contact.jsp">About</a>
 					<a class="text-body mr-3" href="${pageContext.request.contextPath}/admin/">Admin Page</a>
 					<a class="text-body mr-3" href="contact.jsp">Help</a> <a
 						class="text-body mr-3" href="faq.jsp">FAQs</a>

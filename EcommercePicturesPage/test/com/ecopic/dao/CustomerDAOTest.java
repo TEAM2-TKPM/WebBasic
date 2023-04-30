@@ -36,7 +36,8 @@ public class CustomerDAOTest {
 		customer.setFirstname("Mai Bảo Long");
 		customer.setCity("Ho Chi Minh");
 		customer.setCountry("Viet Nam");
-		customer.setAddress("261/15/47 Dinh Phong Phu, Tang Nhon Phu B");
+		customer.setAddressLine1("261/15/47 Dinh Phong Phu, Tang Nhon Phu B");
+		customer.setAddressLine2("261/15/47 Dinh Phong Phu, Tang Nhon Phu B");
 		customer.setPassword("123456");
 		customer.setPhone("0943602574");
 		Customer savedCustomer = customerDAO.create(customer);
